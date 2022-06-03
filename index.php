@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="author" content="Victor Andres Martinez" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="img/github.png" type="image/x-icon">
+    <link rel="shortcut icon" href="github.png" type="image/x-icon">
     <title>Portafolio</title>
     <link rel="stylesheet" href="style.css">
 </head>
@@ -30,9 +30,9 @@
 		
 		<nav>
 			<div class="li"></div>
-			<a href="" target="blank"><img src="img/linkedin.png" class="imgg1" alt="Freepik"></a>
-			<a href="https://github.com/Victormartinezvergara" target="blank"><img src="img/github.png" class="imgg1" alt="Freepik"></a>
-			<a href="https://twitter.com/7codigos?t=of83qE2HGXZUEFx7mElcgg&s=09" target="blank"><img src="img/twi.png" class="imgg1" alt="Freepik"></a>
+			<a href="" target="blank"><img src="linkedin.png" class="imgg1" alt="Freepik"></a>
+			<a href="https://github.com/Victormartinezvergara" target="blank"><img src="github.png" class="imgg1" alt="Freepik"></a>
+			<a href="https://twitter.com/7codigos?t=of83qE2HGXZUEFx7mElcgg&s=09" target="blank"><img src="twi.png" class="imgg1" alt="Freepik"></a>
 			<div class="li"></div>
 		</nav>
 		
@@ -74,35 +74,35 @@
 			
 			<div class="imagenes">
 				<div class="peque"><h1>
-						<img src="img/programador.png" alt="">
+						<img src="programador.png" alt="">
 					HTML</h1></div>
 				<h4 style="color: yellow; font-weight: bolder;">Avanzado</h4>
 			</div>
 			
 			<div class="imagenes">
 				<div class="peque"><h1>
-						<img src="img/programador.png" alt="">
+						<img src="programador.png" alt="">
 					CSS</h1></div>
 				<h4 style="color: yellow; font-weight: bolder;">Intermedio</h4>
 			</div>
 			
 			<div class="imagenes">
 				<div class="peque"><h1>
-						<img src="img/programador.png" alt="">
+						<img src="programador.png" alt="">
 					BOOTSTRAP 5</h1></div>
 				<h4 style="color: yellow; font-weight: bolder;">Intermedio</h4>
 			</div>
 			
 			<div class="imagenes">
 				<div class="peque"><h1>
-						<img src="img/programador.png" alt="">
+						<img src="programador.png" alt="">
 					JAVASCRIPT</h1></div>
 				<h4 style="color: yellow; font-weight: bolder;">Novato</h4>
 			</div>
 			
 			<div class="imagenes">
 				<div class="peque"><h1>
-						<img src="img/programador.png" alt="">
+						<img src="programador.png" alt="">
 					REACT.JS</h1></div>
 				<h4 style="color: yellow; font-weight: bolder;">Novato</h4>
 			</div>
@@ -114,14 +114,14 @@
 			
 			<div class="imagenes">
 				<div class="peque"><h1>
-						<img src="img/programador.png" alt="">
+						<img src="programador.png" alt="">
 					NODEJS - EXPRESS</h1></div>
 				<h4 style="color: yellow; font-weight: bolder;">Aprendiendo</h4>
 			</div>
 			
 			<div class="imagenes">
 				<div class="peque"><h1>
-						<img src="img/programador.png" alt="">
+						<img src="programador.png" alt="">
 					PHP con MYSQL</h1></div>
 				<h4 style="color: #FEF07B; font-weight: bolder;">Novato</h4>
 			</div>
@@ -141,14 +141,14 @@
 		
 		<main>
 			<div class="imagenes">
-				<img src="img/img1.jpg" alt="">
+				<img src="img1.jpg" alt="">
 				<h1>Sitio de páginas web</h1>
 				<i>En Proceso</i><br>
 				<button><a href="">Ver en Github</a></button>
 			</div>
 			
 			<div class="imagenes">
-				<img src="img/img2.jpg" alt="">
+				<img src="img2.jpg" alt="">
 				<h1>Plataforma de cursos gratis</h1>
 				<i>En Proceso</i><br>
 				<button><a href="">Ver en 000webhostapp</a></button>
