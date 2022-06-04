@@ -10,8 +10,8 @@
 }
 
 @keyframes cole{
-	0%{
-	    Background-color: #f0f0f0;
+	50%{
+	    background-color: blue;
 	}
 } 
 
