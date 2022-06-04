@@ -6,14 +6,7 @@
 	font-family: arial;
 	background-color: #020024;
 	scroll-behavior: smooth;
-        animation: cole 1s linear infinite;
 }
-
-@keyframes cole{
-	50%{
-	    background-color: blue;
-	}
-} 
 
 header{
 	position: fixed;
